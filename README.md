@@ -9,5 +9,3 @@ Concepts Covered:
 6. File Handling
 7. Inheritance
 
-Submitted by: Geetika Kaushik 
-Registration Number :209301529
