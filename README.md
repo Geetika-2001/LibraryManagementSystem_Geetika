@@ -1,4 +1,4 @@
-# LibraryManagementSystem_Geetika_209301529
+# LibraryManagementSystem_Geetika
 This is a Library Management System , wherein User can issue and return books and Admin has access to edit the database . 
 Concepts Covered:
 1. Methods in Java
